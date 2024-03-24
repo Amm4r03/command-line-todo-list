@@ -1,3 +1,5 @@
+![banner](assets/banner.png)
+
 # to do list
 this is a simple implementation of to do list in C
 I made use of linked lists for implementing it. The application can add tasks, remove tasks based on index and view the current tasks at hand. One can also assign priorities to tasks and view them in various modes.
